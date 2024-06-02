@@ -2,6 +2,8 @@
 
 This Django project provides a web service for reconciling customer identities across multiple purchases based on email and phone number information.
 
+# Postman Documentation:
+Using this postman documentation link you can view all the testcases of endpoints https://documenter.getpostman.com/view/16764987/2sA3QwcAMn
 ## Features
 
 - **Identity Reconciliation**: Identify and keep track of customer identities across multiple purchases.
